@@ -1,0 +1,9 @@
+antalya_hotels_final: The initial raw dataset.
+
+cleaned_hotels : The dataset created after EDA.
+
+hotels_version2: The dataset created after EDA and NLP (containing only English reviews).
+
+hotels_v3_vize: The dataset created after EDA and NLP (containing all reviews).
+
+hotels_Vize_FINAL: The final dataset
